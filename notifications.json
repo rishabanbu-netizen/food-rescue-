@@ -1,0 +1,122 @@
+[
+  {
+    "_id": "6af5516ff08313f6ce31d8e4",
+    "recipient": "6af5487635152ff69b5a43ae",
+    "title": "Donation Listed Successfully",
+    "message": "Your food donation of \"BRIYANI\" (50 boxes) is now available for rescue.",
+    "type": "donation",
+    "donationId": "6af5516faaa89451559adb24",
+    "isRead": false,
+    "createdAt": "2026-11-12T05:41:03.947Z"
+  },
+  {
+    "_id": "6adafa16e28b94e07c076fe6",
+    "recipient": "6ac506c4aac0c360f8a33cf3",
+    "title": "Donation Listed Successfully",
+    "message": "Your food donation of \"Chicken Briyani\" (100 kg) is now available for rescue.",
+    "type": "donation",
+    "donationId": "6adafa160c34e7604eafebaa",
+    "isRead": false,
+    "createdAt": "2026-10-23T06:09:26.204Z"
+  },
+  {
+    "_id": "6ac50c8808b229675471845d",
+    "recipient": "6ac506c4aac0c360f8a33cf3",
+    "title": "Claim Confirmed!",
+    "message": "You successfully claimed \"Crispy Roasted Herb Chicken & Veggies\". Pickup address: 452 Broadway Ave, New York.",
+    "type": "claim",
+    "donationId": "6ac506c42999a14134156b0b",
+    "isRead": false,
+    "createdAt": "2026-10-06T14:58:16.150Z"
+  },
+  {
+    "_id": "6ac50c88856bbadaa3d8855c",
+    "recipient": "6ac506c46e96c9f31d8086b8",
+    "title": "Food Donation Claimed!",
+    "message": "\"Crispy Roasted Herb Chicken & Veggies\" has been claimed by Food Rescue Operations HQ. Please prepare for pickup between 16:00 and 19:00.",
+    "type": "claim",
+    "donationId": "6ac506c42999a14134156b0b",
+    "isRead": false,
+    "createdAt": "2026-10-06T14:58:16.149Z"
+  },
+  {
+    "_id": "6ac50aed4b1e159009d778d0",
+    "recipient": "6ac506c4febbe00749cf8daf",
+    "title": "Collection Completed!",
+    "message": "\"Artisan Bagels & Blueberry Muffins\" pickup confirmed as collected. Thank you for your partnership!",
+    "type": "collection",
+    "donationId": "6ac50aedb1e027edc029fe6e",
+    "isRead": false,
+    "createdAt": "2026-10-06T14:51:25.240Z"
+  },
+  {
+    "_id": "6ac50aed23ff8ecbb4583400",
+    "recipient": "6ac506c46e96c9f31d8086b8",
+    "title": "Donation Collected & Completed!",
+    "message": "\"Artisan Bagels & Blueberry Muffins\" was marked as collected. Thank you for rescuing surplus food!",
+    "type": "collection",
+    "donationId": "6ac50aedb1e027edc029fe6e",
+    "isRead": false,
+    "createdAt": "2026-10-06T14:51:25.239Z"
+  },
+  {
+    "_id": "6ac50aedadd26050c786996d",
+    "recipient": "6ac506c4febbe00749cf8daf",
+    "title": "Claim Confirmed!",
+    "message": "You successfully claimed \"Artisan Bagels & Blueberry Muffins\". Pickup address: 452 Broadway Ave, New York.",
+    "type": "claim",
+    "donationId": "6ac50aedb1e027edc029fe6e",
+    "isRead": false,
+    "createdAt": "2026-10-06T14:51:25.217Z"
+  },
+  {
+    "_id": "6ac50aedd46c5c487625e0a5",
+    "recipient": "6ac506c46e96c9f31d8086b8",
+    "title": "Food Donation Claimed!",
+    "message": "\"Artisan Bagels & Blueberry Muffins\" has been claimed by Hope Community Kitchen NGO. Please prepare for pickup between 17:00 and 19:00.",
+    "type": "claim",
+    "donationId": "6ac50aedb1e027edc029fe6e",
+    "isRead": false,
+    "createdAt": "2026-10-06T14:51:25.216Z"
+  },
+  {
+    "_id": "6ac50aed0fea0fe2a9f90b1f",
+    "recipient": "6ac506c46e96c9f31d8086b8",
+    "title": "Donation Listed Successfully",
+    "message": "Your food donation of \"Artisan Bagels & Blueberry Muffins\" (24 items) is now available for rescue.",
+    "type": "donation",
+    "donationId": "6ac50aedb1e027edc029fe6e",
+    "isRead": false,
+    "createdAt": "2026-10-06T14:51:25.190Z"
+  },
+  {
+    "_id": "6ac506c40a19159634b71515",
+    "recipient": "6ac506c4aac0c360f8a33cf3",
+    "title": "System Initialized",
+    "message": "Food Rescue platform is online and operational.",
+    "type": "system",
+    "donationId": null,
+    "isRead": false,
+    "createdAt": "2026-10-06T14:33:40.627Z"
+  },
+  {
+    "_id": "6ac506c4feb03421a067647d",
+    "recipient": "6ac506c4febbe00749cf8daf",
+    "title": "Claim Confirmed: Greek Yogurts & Cheddar",
+    "message": "You claimed 50 items from FreshMart Organic Grocery. Please pick up between 11:00 and 17:00.",
+    "type": "claim",
+    "donationId": "6ac506c41ed47ee3acd7ef88",
+    "isRead": false,
+    "createdAt": "2026-10-06T14:33:40.625Z"
+  },
+  {
+    "_id": "6ac506c456d4572c78da9203",
+    "recipient": "6ac506c46e96c9f31d8086b8",
+    "title": "Welcome to Food Rescue!",
+    "message": "Thank you for registering Green Bites Bistro. You can now post surplus food anytime.",
+    "type": "system",
+    "donationId": null,
+    "isRead": false,
+    "createdAt": "2026-10-06T14:33:40.624Z"
+  }
+]
